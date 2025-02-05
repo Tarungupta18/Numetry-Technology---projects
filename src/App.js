@@ -142,7 +142,7 @@ const App = () => {
                 <div className="flex justify-center">
                   <ReCAPTCHA
                     ref={recaptchaRef}
-                    sitekey="6LfKV8wqAAAAAM2jsrbf_oev8QZZ2DrL7DlfoywS"
+                    sitekey="6LfMW80qAAAAAPJtODxPnYL3Y0ShBY4bINN7wXhp"
                     onChange={handleRecaptchaVerify}
                   />
                 </div>
